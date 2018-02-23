@@ -12,7 +12,7 @@ void printInfo(List);
 void playMusic(address P);
 // play song from element P
 
-void shuffleList(List &);
+void shuffleList(List &L, int ndata);
 // shuffle the song list
 
 void sortListByID(List &);
